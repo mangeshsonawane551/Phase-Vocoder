@@ -1,10 +1,9 @@
 %% 0. Program Info
 % Program Author: Mangesh Sonawane
-% Program Details: A basic implementation of the Phase Vocoder as described
-% in the MAFTDSP assignment 1 instructions.
+% Program Details: A basic implementation of the Phase Vocoder 
 
 %% 1 - Variable Declaration 
-% Variables to be defined by the user
+
 
 % Define file to be manipulated, TEST_FILE, Window Size in sample, N, 
 % Analysis Hop Size in samples, HA, Time-Strech Factor, Q.
